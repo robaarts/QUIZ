@@ -1,4 +1,6 @@
 //----------------------------------------------------------------------------------------------
+// Roba Fahad Almalki
+//ID: 444003119
 
 // Java code for linearly search x in arr[]. If x
 
@@ -40,11 +42,11 @@ class LinearSearch {
 
             {
 
-                        int[] arr = { 3, 4, 1, 7, 5 };
+                        int[] arr = { 5, 4, 1, 3,7 };
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 7;
 
                         int index = search(arr, n, x);
 
